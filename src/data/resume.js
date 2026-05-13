@@ -89,7 +89,7 @@ export const experience = [
 
 export const education = [
   {
-    degree: "B.Tech CSE (IoT, Cybersecurity & Blockchain)",
+    degree: "B.Tech CSE (IoT, Cybersecurity including Blockchain Technology)",
     institution: "Vishwakarma Institute of Information Technology, Pune",
     year: "2023 – Present",
     score: "CGPA 9.07",
@@ -114,7 +114,7 @@ export const skills = {
   datascience:["Pandas", "NumPy", "Matplotlib"],
   backend:    ["Flask", "FastAPI", "Node.js", "REST APIs"],
   databases:  ["MongoDB", "MySQL"],
-  tools:      ["Git", "GitHub", "Postman", "Groq API"],
+  tools:      ["Git", "GitHub", "Vercel", "Groq API"],
 };
 
 export const skillsFlat = [
