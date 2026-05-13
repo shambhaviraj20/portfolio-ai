@@ -48,7 +48,7 @@ export const projects = [
     year: "2025",
     description:
       "Developed AI-assisted monitoring workflows for detecting harmful social media content across Twitter, Instagram, and Facebook. Integrated API-driven pipelines processing 30,000+ social media posts for keyword-based classification and analysis. Built filtering and visualization systems displaying 1,000+ flagged entries during testing workflows.",
-    highlight: "Cybercrime Tool built for Nagpur Police",
+    highlight: "Inaugurated by Hon. CM Shri Devendra Fadnavis",
     link: null,
   },
   {
