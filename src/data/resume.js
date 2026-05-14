@@ -9,7 +9,7 @@ export const personal = {
   email: "rajshambhavi13@gmail.com",
   available: true,
   availableText: "available for internships",
-  about: `Third-year Computer Science student specializing in Artificial Intelligence, Machine Learning, and NLP with experience building RAG pipelines, predictive AI systems, and explainable ML models. Skilled in TensorFlow, Scikit-learn, FastAPI, and LLM-based workflows, with research experience in AI-driven simulations, cybersecurity, and startup intelligence platforms.`,
+  about: `Final-year Computer Science student specializing in Artificial Intelligence, Machine Learning, and NLP with experience building RAG pipelines, predictive AI systems, and explainable ML models. Skilled in TensorFlow, Scikit-learn, FastAPI, and LLM-based workflows, with research experience in AI-driven simulations, cybersecurity, and startup intelligence platforms.`,
   links: {
     linkedin: "https://www.linkedin.com/in/shambhavi-raj/",
     github: "https://github.com/shambhaviraj20",
@@ -92,7 +92,7 @@ export const education = [
     degree: "B.Tech CSE (IoT, Cybersecurity including Blockchain Technology)",
     institution: "Vishwakarma Institute of Information Technology, Pune",
     year: "2023 – Present",
-    score: "CGPA 9.07",
+    score: "CGPA 9.17",
   },
   {
     degree: "High School (Class XII)",
@@ -112,6 +112,7 @@ export const skills = {
   languages:  ["Python", "JavaScript", "Java"],
   aiml:       ["TensorFlow", "Keras", "Scikit-learn", "NLP", "RAG", "BERT", "Prompt Engineering", "Explainable AI (SHAP)", "Predictive Modeling"],
   datascience:["Pandas", "NumPy", "Matplotlib"],
+  frontend: ["HTML", "CSS", "React.js"],
   backend:    ["Flask", "FastAPI", "Node.js", "REST APIs"],
   databases:  ["MongoDB", "MySQL"],
   tools:      ["Git", "GitHub", "Vercel", "Groq API"],
